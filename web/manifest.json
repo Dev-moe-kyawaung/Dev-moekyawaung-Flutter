@@ -1,0 +1,23 @@
+{
+  "name": "Nebula Flow V7",
+  "short_name": "NebulaFlow",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#050816",
+  "theme_color": "#050816",
+  "description": "Premium Flutter Web portfolio for Moe Kyaw Aung.",
+  "orientation": "portrait-primary",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
